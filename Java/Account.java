@@ -6,5 +6,4 @@ public class Account {
     String document;
     String email;
     String password;
-    
 }
