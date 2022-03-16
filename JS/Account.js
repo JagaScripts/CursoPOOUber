@@ -1,4 +1,4 @@
-//forma antigua JavaScripts
+//forma antigua JavaScripts es decir antes de EcmaScript 6
 /*
 function Account(name, document) {
     this.id;

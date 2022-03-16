@@ -1,4 +1,4 @@
-//forma antigua JavaScripts
+//forma antigua JavaScripts es decir antes de EcmaScript 6
 /*function Car(license, driver) {
     this.id;
     this.license = license;
